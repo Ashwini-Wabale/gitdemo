@@ -1,0 +1,23 @@
+[
+{"noteid":111,
+"to":"aaa@gmail.com",
+"from":"xyz@gmail.com",
+"subject": "this is subject 1",
+"msg" :"this is msg1",
+"send_on":"15-02-111"
+},
+{"noteid":222,
+"to":"bbb@gmail.com",
+"from":"lmn@gmail.com",
+"subject": "this is subject 2",
+"msg" :"this is msg 2",
+"send_on":"16-02-111"},
+{
+"noteid":111,
+"to":"aaa@gmail.com",
+"from":"xyz@gmail.com",
+"subject": "this is subject 1",
+"msg" :"this is msg 2",
+"send_on":"15-02-111"
+}
+]
